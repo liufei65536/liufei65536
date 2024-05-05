@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @liufei65536
-- 👀 I’m interested in Python,Pytorch, OpenCV
-- 🌱 I’m currently learning Pytorch
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Python,Django,PyQt,PyGame,Pytorch
+- 🌱 I’m currently learning 500 Line or Less
+
 
 <!---
 liufei65536/liufei65536 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
